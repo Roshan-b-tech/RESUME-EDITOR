@@ -1,0 +1,59 @@
+{
+  "personalInfo": {
+    "name": "roshan",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "summary": "Highly motivated professional specializing in Experienced software developer with 5+ years in full-stack development.. Known for analytical thinking, attention to detail, and the ability to transform complex challenges into streamlined solutions."
+  },
+  "experience": [
+    {
+      "id": "1",
+      "company": "Tech Corp",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01",
+      "endDate": "",
+      "current": true,
+      "description": "\u2022 Led strategic initiatives in Lead development of web applications using React and Node.js., delivering exceptional results and exceeding performance targets\n\u2022 Developed and implemented innovative solutions that enhanced operational effectiveness\n\u2022 Built strong stakeholder relationships and facilitated successful project outcomes"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "University of Technology",
+      "degree": "Bachelor's",
+      "field": "Computer Science",
+      "startDate": "2015-08",
+      "endDate": "2019-05",
+      "gpa": "3.8"
+    },
+    {
+      "id": "1751227568358",
+      "institution": "",
+      "degree": "",
+      "field": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "skills": [
+    "React",
+    "Vue.js",
+    "Angular",
+    "Python",
+    "Java",
+    "C++",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Jenkins",
+    "Redis",
+    "Elasticsearch",
+    "Apache Kafka",
+    "Terraform",
+    "Software Architecture"
+  ],
+  "id": "resume_20250630_013634",
+  "saved_at": "2025-06-30T01:36:34.801915"
+}
