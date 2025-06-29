@@ -1,4 +1,7 @@
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL =
+  import.meta.env.MODE === 'development'
+    ? 'http://localhost:8000'
+    : 'https://resume-editor-2z30.onrender.com';
 
 export async function enhanceWithAI(section: string, content: string): Promise<string> {
   try {
